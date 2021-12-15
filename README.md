@@ -9,6 +9,7 @@
 <hr>
   
   ##### 🤹 - 29 years old;
+  ##### 👨 - He/ Him;
   ##### 📚 - Currently studying NodeJS, MySQL and MongoDB!
   ##### 💬 - Ask me about the tecnologies down below:
 <hr>
