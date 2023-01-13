@@ -35,12 +35,12 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ArturAlvaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturAlvaro&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturAlvaro&layout=compact&langs_count=7&theme=calm"/>
 </div>
-  
+   -->
 ---
 
 ## Contato
