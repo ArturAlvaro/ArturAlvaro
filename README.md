@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/82127102/155865946-bfdd3081-bbcf-480b-bf7f-857d5ea31f15.gif" width="350" height="350"/>
 
 
-  * 🤹 - 29 years old;
+  * 🤹 - 30 years old;
   * 👨 - He/ Him;
   * 📚 - Currently studying Python and Computer Science!
   * 💬 - Ask me about the tecnologies down below:
