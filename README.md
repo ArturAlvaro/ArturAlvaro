@@ -6,7 +6,7 @@
 
   * 🤹 - 30 years old;
   * 👨 - He/ Him;
-  * 📚 - Currently studying Python and Computer Science!
+  * 📚 - Currently studying Java! :coffee:
   * 💬 - Ask me about the tecnologies down below:
 
 </div>
